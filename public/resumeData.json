@@ -1,12 +1,12 @@
 {
   "main": {
-    "name": "Franco Mischuk",
-    "occupation": "Platform engineer/Backend Developer",
-    "description": "As a perfectionist my objective always is to be able to work for an encouraging and stable company that will assist me in developing, improving, and obtaining the necessary skills in order to become the best software developer possible.",
+    "name": "Luján Pontoriero",
+    "occupation": "Human Resources/Head Hunter",
+    "description": "My objective is to be able to work toghether to improve a company to see the best version from the employees and mine.",
     "profilePicture": "/images/profilepic.jpg",
     "bio": "I am a restless person when it comes to working or improving as a professional, I always try to do my best and in the best way possible.",
-    "email": "mischuk.ti@gmail.com",
-    "phone": "+54 9 223 518-1256",
+    "email": "lujanpontoriero@gmail.com",
+    "phone": "+54 9 223 6076657",
     "address": {
       "city": "Mar Del Plata",
       "state": "Buenos Aires"
@@ -29,9 +29,9 @@
   "resume": {
     "education": [
       {
-        "school": "National Technological University",
-        "degree": "Superior Technician in Programming",
-        "graduated": "2018",
+        "school": "National University of Mar del Plata",
+        "degree": "Psychology",
+        "graduated": "2022",
         "description": "I started right after I finished technician school. At the same that I was studying here, I also was working as a technician at the local Casino. Here I improve my knowledge about the foundation that I learned on the school"
       },
       {

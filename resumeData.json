@@ -1,0 +1,214 @@
+{
+  "main": {
+    "name": "Franco Mischuk",
+    "occupation": "Platform engineer/Backend Developer",
+    "description": "As a perfectionist my objective always is to be able to work for an encouraging and stable company that will assist me in developing, improving, and obtaining the necessary skills in order to become the best software developer possible.",
+    "profilePicture": "/images/profilepic.jpg",
+    "bio": "I am a restless person when it comes to working or improving as a professional, I always try to do my best and in the best way possible.",
+    "email": "mischuk.ti@gmail.com",
+    "phone": "+54 9 223 518-1256",
+    "address": {
+      "city": "Mar Del Plata",
+      "state": "Buenos Aires"
+    },
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/franco-mischuk-125a46149/",
+        "faPrefix": "fab",
+        "faIcon": "linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Frachuk",
+        "faPrefix": "fab",
+        "faIcon": "github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "National Technological University",
+        "degree": "Superior Technician in Programming",
+        "graduated": "2018",
+        "description": "I started right after I finished technician school. At the same that I was studying here, I also was working as a technician at the local Casino. Here I improve my knowledge about the foundation that I learned on the school"
+      },
+      {
+        "school": "High Technician School N ° 5",
+        "degree": "Computer Technician",
+        "graduated": "2015",
+        "description": "Here I made my first steps on the programming world"
+      }
+    ],
+    "work": [
+      {
+        "company": "GlobalLogic",
+        "title": "Platform & Software Engineer",
+        "years": "Aug. 2020 - Present.",
+        "description": "With a solid foundation in Software Development, I joined a platform Team in GlobalLogic, Since then I am developing templates for internal uses, I take interviews for potential new team members and help them with the onboarding on the platform."
+      },
+      {
+        "company": "Avalith",
+        "title": "Fullstack Developer",
+        "years": "Mar. 2019 - Aug. 2020",
+        "description": "I joined Avalith team as a Full Stack Developer. Besides the projects that I was working on, I was in charge of the interviews and the training of the new company candidates."
+      },
+      {
+        "company": "Boldt S.A",
+        "title": "Technician",
+        "years": "Apr. 2015 - Jun. 2018",
+        "description": "I worked setting up the slot machines, from the hardware until the final software configuration."
+      }
+    ],
+    "projects": [
+      {
+        "partner": "eCommerce",
+        "name": "Launchpad templates generator",
+        "years": "Aug. 2020 - Present",
+        "description": "A CLI tool built with yeoman that generates basic rest API (on the most common scenario). It comes with a fully configured pipeline to be deployed with a CI/CD strategy.",
+        "techStack": [
+          "Node",
+          "React",
+          "Monorepo with nx",
+          "Go",
+          "Java",
+          ".NET",
+          "C#",
+          "TypeScript",
+          "Docker",
+          "Cloudformation",
+          "Terraform",
+          "New relic",
+          "JFrog",
+          "Prisma",
+          "AWS",
+          "Spring",
+          "Express",
+          "Jest",
+          "Junit",
+          "Lombok"
+        ]
+      },
+      {
+        "partner": "eCommerce",
+        "name": "Hyperion PBCS",
+        "years": "Sept. 2020 - Jan. 2022",
+        "description": "A service to be able to parse from an s3 file into a CSV that has a unique format to be imported on a business program for the eCommerce team.",
+        "techStack": [
+          "Node",
+          "Express",
+          "Jest",
+          "Git (GitLab)",
+          "Jira",
+          "AWS-SDK",
+          "Streams",
+          "Node Custom transforms"
+        ]
+      },
+      {
+        "partner": "eCommerce",
+        "name": "Narvar Shipment Processor",
+        "years": "Sept. 2020 - Jan. 2022",
+        "description": "An application to handle a write event on an s3 bucket that generates a shipment order with the file content uploaded on the bucket.",
+        "techStack": [
+          "Node",
+          "Express",
+          "Jest",
+          "Git (GitLab)",
+          "Jira",
+          "AWS-SDK",
+          "SQS-Consumer"
+        ]
+      },
+      {
+        "partner": "Rappi",
+        "name": "Rappi Games",
+        "years": "Jun. 2020 - Aug. 2020",
+        "description": "Backend service to handle tournament tokens to be used on the Rappi games app.",
+        "techStack": [
+          "Node",
+          "Express",
+          "Jest",
+          "PostgreSQL",
+          "Git (Bitbucket)",
+          "Jira"
+        ]
+      },
+      {
+        "partner": "Rappi",
+        "name": "Live",
+        "years": "May. 2020 - Jun. 2020",
+        "description": "App to buy and see live streams through the platform of Rappi.",
+        "techStack": [
+          "Node",
+          "Express",
+          "Jest",
+          "PostgreSQL",
+          "Git (Bitbucket)",
+          "Jira"
+        ]
+      },
+      {
+        "partner": "Rappi",
+        "name": "Gifts",
+        "years": "Fab. 2020 - May. 2020",
+        "description": "App inside Rappi platform to send gifts (inside the Rappi store) to your contacts.",
+        "techStack": [
+          "Node",
+          "Express",
+          "Jest",
+          "PostgreSQL",
+          "Git (Bitbucket)",
+          "Jira"
+        ]
+      },
+      {
+        "partner": "Rappi",
+        "name": "Ticket Events",
+        "years": "Sept. 2019 - Fab. 2020",
+        "description": "A backend service using Latam integrations to sell tickets for concerts through the platform of Rappi.",
+        "techStack": [
+          "Node",
+          "TypeScript",
+          "Express",
+          "Jest",
+          "MongoDB",
+          "PostgreSQL",
+          "Git (Bitbucket)",
+          "Jira",
+          "SOAP"
+        ]
+      },
+      {
+        "partner": "Rappi",
+        "name": "Aliados",
+        "years": "Aug. 2019 - Sept. 2019",
+        "description": "A backend service to be able to scrape web and services of the competing companies.",
+        "techStack": [
+          "Java 11",
+          "Lombok",
+          "Spring Boot",
+          "Open Csv",
+          "Jsoup",
+          "Git (Bitbucket)",
+          "MongoDB",
+          "Threads"
+        ]
+      },
+      {
+        "partner": "Origenes Seguros",
+        "name": "Onboarding Page",
+        "years": "Jul. 2019 - Aug. 2019",
+        "description": "Onboarding of a landing page.",
+        "techStack": [
+          "React using Hooks",
+          "SASS",
+          "Gulp",
+          "Git (with GitLab)",
+          "Pixel perfect designs."
+        ]
+      }
+    ]
+  }
+}

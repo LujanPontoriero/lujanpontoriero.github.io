@@ -1,0 +1,61 @@
+---
+  env:
+    es6: true
+    browser: true
+    jest: true
+    node: true
+  extends:
+  - eslint:recommended
+  - plugin:prettier/recommended
+  - plugin:react/recommended
+  - plugin:react/jsx-runtime
+  parser: babel-eslint
+  parserOptions:
+    ecmaFeatures:
+      jsx: true
+    ecmaVersion: 2018
+    sourceType: module
+  plugins:
+  - sort-keys-fix
+  rules:
+    camelcase:
+    - error
+    - ignoreDestructuring: true
+      properties: never
+    jsx-quotes:
+    - error
+    - prefer-single
+    no-console: 'off'
+    no-restricted-syntax:
+    - error
+    - message: Unexpected property on console object was called
+      selector: CallExpression[callee.object.name='console'][callee.property.name!=/^(log|warn|error|info|trace)$/]
+    no-useless-escape: 0
+    prefer-const:
+    - error
+    - destructuring: any
+      ignoreReadBeforeAssign: false
+    prefer-destructuring:
+    - error
+    - array: false
+      object: true
+    - enforceForRenamedProperties: false
+    sort-imports:
+    - 'off'
+    - ignoreCase: false
+      ignoreDeclarationSort: false
+      ignoreMemberSort: false
+      memberSyntaxSortOrder:
+      - none
+      - all
+      - multiple
+      - single
+    sort-keys:
+    - error
+    - asc
+    - caseSensitive: true
+      minKeys: 2
+      natural: false
+    sort-keys-fix/sort-keys-fix: warn
+    sort-vars: error
+  

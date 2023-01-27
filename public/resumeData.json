@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Luján Pontoriero",
-    "occupation": "Human Resources/Head Hunter",
-    "description": "My objective is to be able to work toghether to improve a company to see the best version from the employees and mine.",
+    "occupation": "Psychologist focus in Human Resources/Head Hunter",
+    "description": "My objective is to be able to work together to improve companies and see the best version from their employees and mine.",
     "profilePicture": "/images/profilepic.jpg",
-    "bio": "I am a restless person when it comes to working or improving as a professional, I always try to do my best and in the best way possible.",
+    "bio": "I am a focus person when is time to working or improving as a professional. I always try to do my best and in the best way possible.",
     "email": "lujanpontoriero@gmail.com",
     "phone": "+54 9 223 6076657",
     "address": {
@@ -32,38 +32,38 @@
         "school": "National University of Mar del Plata",
         "degree": "Psychology",
         "graduated": "2022",
-        "description": "I started right after I finished technician school. At the same that I was studying here, I also was working as a technician at the local Casino. Here I improve my knowledge about the foundation that I learned on the school"
+        "description": "I adquire skills to: Recruiting Software Experience, Employee Hiring, Recruiting Technician Experience, Human Resources Policy Implementation Company Policies and Procedures Training, Health and wellness the importance when we work. "
       },
       {
-        "school": "High Technician School N ° 5",
-        "degree": "Computer Technician",
-        "graduated": "2015",
-        "description": "Here I made my first steps on the programming world"
+        "school": "National University of Mar del Plata",
+        "degree": "English Upper Intermediate B2",
+        "graduated": "2018",
+        "description": " I practice listening, reading, comprenhension and conversation tools."
+      },
+      {
+        "school": "EDEM 4 Islas Malvinas",
+        "degree": "Bachelor of Business Administration and Management ",
+        "graduated": "",
+        "description": "Here I adquire my first tools in the Human Resources world"
       }
     ],
     "work": [
       {
-        "company": "GlobalLogic",
-        "title": "Platform & Software Engineer",
-        "years": "Aug. 2020 - Present.",
-        "description": "With a solid foundation in Software Development, I joined a platform Team in GlobalLogic, Since then I am developing templates for internal uses, I take interviews for potential new team members and help them with the onboarding on the platform."
+        "company": "Antares",
+        "title": "Recruitment Assistant",
+        "years": "Nov. 2021 - Jan. 2022",
+        "description": "Coordinated incoming job requisitions and applications. Followed up with notable applicants sourced via industry-specific pipelines, events and job fairs.Provided candidates with information about pay rates, dates and training processes.Receive and choose resumes from candidates. Interviewing people to get information from theirselves. Search the best candidate to the required job position. "
       },
       {
-        "company": "Avalith",
-        "title": "Fullstack Developer",
-        "years": "Mar. 2019 - Aug. 2020",
-        "description": "I joined Avalith team as a Full Stack Developer. Besides the projects that I was working on, I was in charge of the interviews and the training of the new company candidates."
-      },
-      {
-        "company": "Boldt S.A",
-        "title": "Technician",
-        "years": "Apr. 2015 - Jun. 2018",
-        "description": "I worked setting up the slot machines, from the hardware until the final software configuration."
+        "company": "Espatolero Lorenzo",
+        "title": "Organizational Development Consultant",
+        "years": "March. 2016 - June 2016.",
+        "description": "Conducted in-depth research into recruitment and retention programs and implemented optimal solutions to drive organizational change. Devised and optimized human resources processes, practices and program initiatives.• Performed needs and cultural evaluations to strengthen improvements at all organizational levels. Presented reports highlighted proposed changes regarding performance and efficiency enhancement. Conduct job environment and satisfaction survey."
       }
     ],
     "projects": [
       {
-        "partner": "eCommerce",
+        "partner": "Seminario de salud y trabajo",
         "name": "Launchpad templates generator",
         "years": "Aug. 2020 - Present",
         "description": "A CLI tool built with yeoman that generates basic rest API (on the most common scenario). It comes with a fully configured pipeline to be deployed with a CI/CD strategy.",

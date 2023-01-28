@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+To deploy your latest changes to the resume run the following scripts:
+### `npm predploy`
+### `npm deploy`
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

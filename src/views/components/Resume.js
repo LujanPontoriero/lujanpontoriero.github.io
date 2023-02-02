@@ -36,13 +36,6 @@ export class Resume extends Component {
           <span>&bull;</span> <em className='date'>{years}</em>
         </p>
         <p>{description}</p>
-        <em className='info'>Tech Stack</em>
-        <ul>
-          {techStack.map(tech => {
-            const key = `${tech}-${partner}-${name}`;
-            return <span key={key}> &bull; {tech} </span>;
-          })}
-        </ul>
       </div>
     ));
 
@@ -75,7 +68,7 @@ export class Resume extends Component {
         <div className='row projects'>
           <div className='three columns header-col'>
             <h1>
-              <span>Projects</span>
+              <span>Courses</span>
             </h1>
           </div>
 

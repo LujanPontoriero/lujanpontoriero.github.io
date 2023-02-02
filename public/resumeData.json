@@ -1,8 +1,8 @@
 {
   "main": {
     "name": "Luján Pontoriero",
-    "occupation": "Psychologist focus in Human Resources/Head Hunter",
-    "description": "as a professional, one of my main objectives is to match the best candidates with the best companies and follow them through their professional goals.",
+    "occupation": "Psychologist focus in Human Resources/Recruitment Process",
+    "description": "As a professional, one of my main objectives is to match the best candidates with the best companies and follow them through their professional goals.",
     "profilePicture": "/images/profilepic.jpg",
     "bio": "I am a focus person when is time to working or improving as a professional. I always try to do my best and in the best way possible.",
     "email": "lujanpontoriero@gmail.com",
@@ -63,151 +63,32 @@
     ],
     "projects": [
       {
-        "partner": "Seminario de salud y trabajo",
-        "name": "Launchpad templates generator",
-        "years": "Aug. 2020 - Present",
-        "description": "A CLI tool built with yeoman that generates basic rest API (on the most common scenario). It comes with a fully configured pipeline to be deployed with a CI/CD strategy.",
-        "techStack": [
-          "Node",
-          "React",
-          "Monorepo with nx",
-          "Go",
-          "Java",
-          ".NET",
-          "C#",
-          "TypeScript",
-          "Docker",
-          "Cloudformation",
-          "Terraform",
-          "New relic",
-          "JFrog",
-          "Prisma",
-          "AWS",
-          "Spring",
-          "Express",
-          "Jest",
-          "Junit",
-          "Lombok"
-        ]
+        "partner": "Orientation Seminar: Theory and intervention on Vocational and Employment orientation",
+        "name": "National University of Mar del Plata",
+        "years": "Aug. 2021 - Dec. 2021",
+        "description": "",
+        "techStack": []
       },
       {
-        "partner": "eCommerce",
-        "name": "Hyperion PBCS",
-        "years": "Sept. 2020 - Jan. 2022",
-        "description": "A service to be able to parse from an s3 file into a CSV that has a unique format to be imported on a business program for the eCommerce team.",
-        "techStack": [
-          "Node",
-          "Express",
-          "Jest",
-          "Git (GitLab)",
-          "Jira",
-          "AWS-SDK",
-          "Streams",
-          "Node Custom transforms"
-        ]
+        "partner": "Orientation Seminar: Cognitive and Systemic approach: Psychological interventions with people and organisations",
+        "name": "National University of Mar del Plata",
+        "years": "Aug. 2021 - Dec. 2021",
+        "description": "",
+        "techStack": []
       },
       {
-        "partner": "eCommerce",
-        "name": "Narvar Shipment Processor",
-        "years": "Sept. 2020 - Jan. 2022",
-        "description": "An application to handle a write event on an s3 bucket that generates a shipment order with the file content uploaded on the bucket.",
-        "techStack": [
-          "Node",
-          "Express",
-          "Jest",
-          "Git (GitLab)",
-          "Jira",
-          "AWS-SDK",
-          "SQS-Consumer"
-        ]
+        "partner": "Orientation Seminar: Comunicational tools: Interventions on critical situations",
+        "name": "National University of Mar del Plata",
+        "years": "Aug. 2021 - Dec. 2021",
+        "descriptition": "",
+        "techStack": []
       },
       {
-        "partner": "Rappi",
-        "name": "Rappi Games",
-        "years": "Jun. 2020 - Aug. 2020",
-        "description": "Backend service to handle tournament tokens to be used on the Rappi games app.",
-        "techStack": [
-          "Node",
-          "Express",
-          "Jest",
-          "PostgreSQL",
-          "Git (Bitbucket)",
-          "Jira"
-        ]
-      },
-      {
-        "partner": "Rappi",
-        "name": "Live",
-        "years": "May. 2020 - Jun. 2020",
-        "description": "App to buy and see live streams through the platform of Rappi.",
-        "techStack": [
-          "Node",
-          "Express",
-          "Jest",
-          "PostgreSQL",
-          "Git (Bitbucket)",
-          "Jira"
-        ]
-      },
-      {
-        "partner": "Rappi",
-        "name": "Gifts",
-        "years": "Fab. 2020 - May. 2020",
-        "description": "App inside Rappi platform to send gifts (inside the Rappi store) to your contacts.",
-        "techStack": [
-          "Node",
-          "Express",
-          "Jest",
-          "PostgreSQL",
-          "Git (Bitbucket)",
-          "Jira"
-        ]
-      },
-      {
-        "partner": "Rappi",
-        "name": "Ticket Events",
-        "years": "Sept. 2019 - Fab. 2020",
-        "description": "A backend service using Latam integrations to sell tickets for concerts through the platform of Rappi.",
-        "techStack": [
-          "Node",
-          "TypeScript",
-          "Express",
-          "Jest",
-          "MongoDB",
-          "PostgreSQL",
-          "Git (Bitbucket)",
-          "Jira",
-          "SOAP"
-        ]
-      },
-      {
-        "partner": "Rappi",
-        "name": "Aliados",
-        "years": "Aug. 2019 - Sept. 2019",
-        "description": "A backend service to be able to scrape web and services of the competing companies.",
-        "techStack": [
-          "Java 11",
-          "Lombok",
-          "Spring Boot",
-          "Open Csv",
-          "Jsoup",
-          "Git (Bitbucket)",
-          "MongoDB",
-          "Threads"
-        ]
-      },
-      {
-        "partner": "Origenes Seguros",
-        "name": "Onboarding Page",
-        "years": "Jul. 2019 - Aug. 2019",
-        "description": "Onboarding of a landing page.",
-        "techStack": [
-          "React using Hooks",
-          "SASS",
-          "Gulp",
-          "Git (with GitLab)",
-          "Pixel perfect designs."
-        ]
+        "partner": "Orientation Seminar: Diagnosis, Prevention and Treatment on occupational and work-related diseases",
+        "name": "National University of Mar del Plata",
+        "years": "Aug. 2020 - Dec. 2020",
+        "description": "",
+        "techStack": []
       }
     ]
   }

@@ -14,13 +14,13 @@
     "social": [
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/franco-mischuk-125a46149/",
+        "url": "https://www.linkedin.com/in/mar%C3%ADa-luj%C3%A1n-pontoriero-42b3538b/",
         "faPrefix": "fab",
         "faIcon": "linkedin"
       },
       {
         "name": "github",
-        "url": "https://github.com/Frachuk",
+        "url": "https://github.com/LujanPontoriero",
         "faPrefix": "fab",
         "faIcon": "github"
       }
@@ -30,9 +30,9 @@
     "education": [
       {
         "school": "National University of Mar del Plata",
-        "degree": "Psychology",
+        "degree": "Psychology Degree",
         "graduated": "2022",
-        "description": "I adquire skills to: Recruiting Software Experience, Employee Hiring, Recruiting Technician Experience, Human Resources Policy Implementation Company Policies and Procedures Training, Health and wellness the importance when we work. "
+        "description": "I adquire skills to: Recruiting Software Experience, Employee Hiring, Recruiting Technician Experience, Human Resources Policy Implementation, Company Policies and Procedures Training, Health and wellness the importance when we work. "
       },
       {
         "school": "National University of Mar del Plata",
@@ -51,43 +51,43 @@
       {
         "company": "Antares",
         "title": "Recruitment Assistant",
-        "years": "Nov. 2021 - Jan. 2022",
-        "description": "Coordinated incoming job requisitions and applications. Followed up with notable applicants sourced via industry-specific pipelines, events and job fairs.Provided candidates with information about pay rates, dates and training processes.Receive and choose resumes from candidates. Interviewing people to get information from theirselves. Search the best candidate to the required job position. "
+        "years": "Nov. 2021 - Feb. 2022",
+        "description": "Coordinated incoming job requisitions and applications. Followed up with notable applicants sourced via industry-specific pipelines, events and job fairs. Provided candidates with information about pay rates, dates and training processes. Receive and choose resumes from candidates. Interviewing people to get information from theirselves. Search the best candidate to the required job position. "
       },
       {
         "company": "Espatolero Lorenzo",
         "title": "Organizational Development Consultant",
         "years": "March. 2016 - June 2016.",
-        "description": "Conducted in-depth research into recruitment and retention programs and implemented optimal solutions to drive organizational change. Devised and optimized human resources processes, practices and program initiatives.• Performed needs and cultural evaluations to strengthen improvements at all organizational levels. Presented reports highlighted proposed changes regarding performance and efficiency enhancement. Conduct job environment and satisfaction survey."
+        "description": "Conducted in-depth research into recruitment and retention programs, and implemented optimal solutions to drive organizational change. Devised and optimized human resources processes, practices and program initiatives. Performed needs and cultural evaluations to strengthen improvements at all organizational levels. Presented reports highlighted proposed changes regarding performance and efficiency enhancement. Conduct job environment and satisfaction survey."
       }
     ],
     "projects": [
       {
-        "partner": "Orientation Seminar: Theory and intervention on Vocational and Employment orientation",
+        "partner": "Orientation Seminar: Theory and intervention on Vocational and Employment orientation.",
         "name": "National University of Mar del Plata",
         "years": "Aug. 2021 - Dec. 2021",
-        "description": "",
+        "description": "knowledge about the different (old and newest) techniques and theorys in Vocational and Employment Orientation.",
         "techStack": []
       },
       {
-        "partner": "Orientation Seminar: Cognitive and Systemic approach: Psychological interventions with people and organisations",
+        "partner": "Orientation Seminar: Cognitive and Systemic approach: Psychological interventions with people and organisations.",
         "name": "National University of Mar del Plata",
         "years": "Aug. 2021 - Dec. 2021",
-        "description": "",
+        "description": "Different ways of interventions with Cognitive and Systemic approach, using different tools to work, from these point of view, with people and organizations.",
         "techStack": []
       },
       {
-        "partner": "Orientation Seminar: Comunicational tools: Interventions on critical situations",
+        "partner": "Orientation Seminar: Comunicational tools: Interventions on critical situations.",
         "name": "National University of Mar del Plata",
         "years": "Aug. 2021 - Dec. 2021",
-        "descriptition": "",
+        "descriptition": "Practical comunicational tools to do interventions and mediate on critical situations, like arguments between workers or a divorce.",
         "techStack": []
       },
       {
-        "partner": "Orientation Seminar: Diagnosis, Prevention and Treatment on occupational and work-related diseases",
+        "partner": "Orientation Seminar: Diagnosis, Prevention and Treatment on occupational and work-related diseases.",
         "name": "National University of Mar del Plata",
         "years": "Aug. 2020 - Dec. 2020",
-        "description": "",
+        "description": "Knowledge and different tools to make prevention, diagnosis and tratment with work- related diseases, like Burn-out, mobbing and others.",
         "techStack": []
       }
     ]
